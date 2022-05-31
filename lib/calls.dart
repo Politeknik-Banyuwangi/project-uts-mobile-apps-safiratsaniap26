@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class Calls extends StatelessWidget {
@@ -60,7 +61,7 @@ class Calls extends StatelessWidget {
     );
   }
 
-  Widget tlephone(String name, IconData iconData, Color iconColor, String Time, NetworkImage networkImage) {
+  Widget tlephone(String nama, IconData iconData, Color iconColor, String Waktu, NetworkImage networkImage) {
     return Card(
       margin: EdgeInsets.only(bottom: 0.8),
       child: ListTile(
@@ -69,7 +70,7 @@ class Calls extends StatelessWidget {
           radius: 30,
         ),
         title: Text(
-          name,
+          nama,
           style: TextStyle(fontWeight: FontWeight.w500),
         ),
         subtitle: Row(
@@ -81,7 +82,7 @@ class Calls extends StatelessWidget {
             ),
             SizedBox(width: 8),
             Text(
-              Time,
+              Waktu,
               style: TextStyle(fontSize: 15),
             ),
           ],

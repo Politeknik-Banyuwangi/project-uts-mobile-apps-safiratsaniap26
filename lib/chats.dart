@@ -17,6 +17,9 @@ class Chats extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
+
+            // masukkan codingan disini
+            message('Maritta Dwi', 'Okey fir', '10.19', Icons.done_all, Colors.blue, NetworkImage('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/08/31/3237294347.jpg')),
           ],
         ),
       ),
