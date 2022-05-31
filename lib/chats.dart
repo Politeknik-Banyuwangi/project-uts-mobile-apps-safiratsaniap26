@@ -20,6 +20,12 @@ class Chats extends StatelessWidget {
 
             // masukkan codingan disini
             message('Maritta Dwi', 'Okey fir', '10.19', Icons.done_all, Colors.blue, NetworkImage('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/08/31/3237294347.jpg')),
+            message('Kelas TI-2D', 'Anda: iy rek', '11.40', Icons.done, Colors.grey, NetworkImage('https://cdn.popbela.com/content-images/post/20190519/img-242e1b2552582f651aee24c72e5e65e4_750x500.jpg')),
+            message('Maritta Dwi', 'Okey fir', '10.19', Icons.done_all, Colors.blue, NetworkImage('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/08/31/3237294347.jpg')),
+            message('Maritta Dwi', 'Okey fir', '10.19', Icons.done_all, Colors.blue, NetworkImage('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/08/31/3237294347.jpg')),
+            message('Maritta Dwi', 'Okey fir', '10.19', Icons.done_all, Colors.blue, NetworkImage('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/08/31/3237294347.jpg')),
+            message('Maritta Dwi', 'Okey fir', '10.19', Icons.done_all, Colors.blue, NetworkImage('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/08/31/3237294347.jpg')),
+            message('Maritta Dwi', 'Okey fir', '10.19', Icons.done_all, Colors.blue, NetworkImage('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/08/31/3237294347.jpg')),
           ],
         ),
       ),
