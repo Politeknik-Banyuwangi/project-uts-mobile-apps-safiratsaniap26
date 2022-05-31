@@ -23,6 +23,10 @@ class Calls extends StatelessWidget {
             tlephone('Royyan Azis', Icons.call_made, Colors.green, '23 Mei 12.44', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
             tlephone('Kakak', Icons.call_received, Colors.red, '19 Mei 19.54', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
             tlephone('Kang Paket JNT', Icons.call_received, Colors.green, '19 Mei 10.19', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
+            tlephone('Royan & 3 lainnya', Icons.call_received, Colors.green, '16 Mei 10.16', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
+            tlephone('Kakak', Icons.call_received, Colors.green, '13 Mei 17.06', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
+            tlephone('Mas Adi', Icons.call_received, Colors.red, '8 Mei 12.54', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
+            tlephone('Mas Adi', Icons.call_received, Colors.green, '7 Mei 10.36', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
             // Masukkan Coding disini jangan rubah lainnya
             //
             //
