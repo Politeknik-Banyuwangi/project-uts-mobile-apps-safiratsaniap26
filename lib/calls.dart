@@ -63,11 +63,11 @@ class Calls extends StatelessWidget {
 
   Widget tlephone(String name, IconData iconData, Color iconColor, String Time, NetworkImage networkImage) {
     return Card(
-      margin: EdgeInsets.only(bottom: 0.5),
+      margin: EdgeInsets.only(bottom: 0.8),
       child: ListTile(
         leading: CircleAvatar(
           backgroundImage: networkImage,
-          radius: 26,
+          radius: 30,
         ),
         title: Text(
           name,
@@ -78,12 +78,12 @@ class Calls extends StatelessWidget {
             Icon(
               iconData,
               color: iconColor,
-              size: 20,
+              size: 24,
             ),
-            SizedBox(width: 6),
+            SizedBox(width: 8),
             Text(
               Time,
-              style: TextStyle(fontSize: 13),
+              style: TextStyle(fontSize: 15),
             ),
           ],
         ),
