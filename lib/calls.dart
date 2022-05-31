@@ -18,15 +18,15 @@ class Calls extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
-            tlephone('Aditya Wiguna', Icons.call_received, Colors.green, '(2) kemarin 12.53', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
-            tlephone('Maritta Dwi', Icons.call_received, Colors.green, '23 Mei 12.21', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
+            tlephone('Aditya Wiguna', Icons.call_received, Colors.green, '(2) kemarin 12.53', NetworkImage('https://cdn.kibrispdr.org/data/foto-bayangan-orang-23.jpg')),
+            tlephone('Maritta Dwi', Icons.call_received, Colors.green, '23 Mei 12.21', NetworkImage('https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/08/31/3237294347.jpg')),
             tlephone('Royyan Azis', Icons.call_made, Colors.green, '23 Mei 12.44', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
-            tlephone('Kakak', Icons.call_received, Colors.red, '19 Mei 19.54', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
-            tlephone('Kang Paket JNT', Icons.call_received, Colors.green, '19 Mei 10.19', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
+            tlephone('Kakak', Icons.call_received, Colors.red, '19 Mei 19.54', NetworkImage('https://trimelive.com/wp-content/uploads/2021/03/kaos-kaki.jpg')),
+            tlephone('Kang Paket JNT', Icons.call_received, Colors.green, '19 Mei 10.19', NetworkImage('https://i.pinimg.com/originals/94/65/14/946514d6322a9a415926d522e2e014e6.jpg')),
             tlephone('Royan & 3 lainnya', Icons.call_received, Colors.green, '16 Mei 10.16', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
-            tlephone('Kakak', Icons.call_received, Colors.green, '13 Mei 17.06', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
-            tlephone('Mas Adi', Icons.call_received, Colors.red, '8 Mei 12.54', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
-            tlephone('Mas Adi', Icons.call_received, Colors.green, '7 Mei 10.36', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
+            tlephone('Kakak', Icons.call_received, Colors.green, '13 Mei 17.06', NetworkImage('https://trimelive.com/wp-content/uploads/2021/03/kaos-kaki.jpg')),
+            tlephone('Mas Adi', Icons.call_received, Colors.red, '8 Mei 12.54', NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWvSnPC7E5pOdtioSQw2-k1Rcvv0uKxRfFA&usqp=CAU')),
+            tlephone('Mas Adi', Icons.call_received, Colors.green, '7 Mei 10.36', NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWvSnPC7E5pOdtioSQw2-k1Rcvv0uKxRfFA&usqp=CAU')),
             // Masukkan Coding disini jangan rubah lainnya
             //
             //
