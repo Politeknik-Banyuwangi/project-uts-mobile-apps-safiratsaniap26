@@ -24,6 +24,7 @@ class Chats extends StatelessWidget {
             message('Aditya Wiguna', 'Pcc', '08.23', Icons.done_all, Colors.blue, NetworkImage('https://cdn.kibrispdr.org/data/foto-bayangan-orang-23.jpg')),
             message('Adelina', 'Del Otw', '07.10', Icons.done_all, Colors.grey, NetworkImage('https://broonet.com/wp-content/uploads/2020/03/mewarnai-gambar-kartun-9.jpg')),
             message('Kakak', 'kak', 'kemarin', Icons.done_all, Colors.grey, NetworkImage('https://trimelive.com/wp-content/uploads/2021/03/kaos-kaki.jpg')),
+            message('Kholifatul Putri', 'put gak nd kampus', 'kemarin', Icons.done_all, Colors.blue, NetworkImage('https://awsimages.detik.net.id/community/media/visual/2020/09/20/jenis-jenis-kucing-peliharaan-11_43.jpeg?w=700&q=90')),
           ],
         ),
       ),
