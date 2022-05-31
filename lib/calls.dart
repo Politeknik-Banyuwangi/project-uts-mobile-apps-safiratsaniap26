@@ -80,6 +80,11 @@ class Calls extends StatelessWidget {
               color: iconColor,
               size: 20,
             ),
+            SizedBox(width: 6),
+            Text(
+              Time,
+              style: TextStyle(fontSize: 13),
+            ),
           ],
         ),
         trailing: Icon(
