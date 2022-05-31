@@ -30,4 +30,17 @@ class Chats extends StatelessWidget {
       ),
     );
   }
+
+Widget message(String nama, String deskripsi, String waktu, IconData iconData,NetworkImage networkImage ){
+  return Card(
+    margin: EdgeInsets.only(bottom: 0.7),
+    child: ListTile(
+      leading: CircleAvatar(backgroundColor: networkImage, radius: 20,
+      ),
+      title: Text(
+        nama,
+      )
+    )
+  )
+}
 }
