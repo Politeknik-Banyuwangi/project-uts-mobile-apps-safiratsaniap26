@@ -31,16 +31,30 @@ class Chats extends StatelessWidget {
     );
   }
 
-Widget message(String nama, String deskripsi, String waktu, IconData iconData,NetworkImage networkImage ){
-  return Card(
-    margin: EdgeInsets.only(bottom: 0.7),
-    child: ListTile(
-      leading: CircleAvatar(backgroundColor: networkImage, radius: 20,
+  Widget message(String nama, String deskripsi, String waktu, IconData iconData, Color iconColor, NetworkImage networkImage) {
+    return Card(
+      margin: EdgeInsets.only(bottom: 0.7),
+      child: ListTile(
+        leading: CircleAvatar(
+          backgroundImage: networkImage,
+          radius: 20,
+        ),
+        title: Text(
+          nama,
+          style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+        ),
+        subtitle: Row(children: [
+          Icon(iconData, size: 18, color: iconColor),
+          SizedBox(width: 8),
+          Text(
+            deskripsi,
+            style: TextStyle(
+              fontSize: 15,
+            ),
+          ),
+        ]),
+        trailing: Text(waktu),
       ),
-      title: Text(
-        nama,
-      )
-    )
-  )
-}
+    );
+  }
 }
