@@ -29,6 +29,7 @@ class Calls extends StatelessWidget {
             tlephone('Royan & 3 lainnya', Icons.call_received, Colors.green, '16 Mei 10.16', NetworkImage('https://lzd-img-global.slatic.net/g/p/24d8f239fab8b5880bd7b8434fe1c4f3.jpg_720x720q80.jpg_.webp')),
             tlephone('Kakak', Icons.call_received, Colors.green, '13 Mei 17.06', NetworkImage('https://trimelive.com/wp-content/uploads/2021/03/kaos-kaki.jpg')),
             tlephone('Mas Adi', Icons.call_received, Colors.red, '8 Mei 12.54', NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWvSnPC7E5pOdtioSQw2-k1Rcvv0uKxRfFA&usqp=CAU')),
+            tlephone('Mas Adi', Icons.call_received, Colors.green, '7 Mei 10.37', NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWvSnPC7E5pOdtioSQw2-k1Rcvv0uKxRfFA&usqp=CAU')),
             tlephone('Mas Adi', Icons.call_received, Colors.green, '7 Mei 10.36', NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWvSnPC7E5pOdtioSQw2-k1Rcvv0uKxRfFA&usqp=CAU')),
           ],
         ),

@@ -34,7 +34,7 @@ class Chats extends StatelessWidget {
             message('Adinda', 'di mana', 'kemarin', Icons.done_all, Colors.blue, NetworkImage('https://i.pinimg.com/736x/2d/8c/bb/2d8cbbdf7e06b8cbf52ab33898185062.jpg')),
             message('Cherly', 'oke', '12/05/22', Icons.done_all, Colors.grey, NetworkImage('https://i.pinimg.com/736x/86/66/a2/8666a272c8df4edde46614ac86760902.jpg')),
             message('Ibu', 'iya buk', '12/05/22', Icons.done_all, Colors.grey, NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9ZQDLpn6zdfkXW4QndXzasCkriFUTvxRpw&usqp=CAU')),
-            message('Fitra kumala', 'di banyuwangi', '12/05/22', Icons.done_all, Colors.blue, NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOcJqp0AOf1Le2Zs0cSRroOvSXWOGaVTyxQ&usqp=CAU')),
+            message('+62 866124093', 'di banyuwangi', '12/05/22', Icons.done_all, Colors.blue, NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOcJqp0AOf1Le2Zs0cSRroOvSXWOGaVTyxQ&usqp=CAU')),
             message('Bondan', 'di jemput ya', '9/05/22', Icons.done_all, Colors.blue, NetworkImage('https://i.pinimg.com/564x/33/bd/4a/33bd4a02e58aa0fd9613834ffeae885d.jpg')),
             message('Melati', 'Liat bioskop yuk', '9/05/22', Icons.done_all, Colors.blue, NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHMW4c-7hsp6feW4kCfMykjwnYSfKS7KDHg&usqp=CAU')),
             message('Metabella', 'nd Untag ga', '6/04/22', Icons.done_all, Colors.grey, NetworkImage('https://cdns.klimg.com/dream.co.id/resized/630x440/news/2021/11/10/183665/ootd-hijab-one-set-cocok-untuk-musim-hujan-2111106_3x2.jpg')),
@@ -59,7 +59,7 @@ class Chats extends StatelessWidget {
       child: ListTile(
         leading: CircleAvatar(
           backgroundImage: networkImage,
-          radius: 20,
+          radius: 30,
         ),
         title: Text(
           nama,
